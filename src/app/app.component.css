@@ -33,4 +33,14 @@
     grid-area: body;
     background-color: black;
     color: white;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+app-main-page{
+    height: 100%;
+    display: block;
+}
+#app-container{
+    height: 100%;
 }
